@@ -22,7 +22,9 @@ height: 100%;
     width: 100%;
     height: 100%;
     display: block;
+    perspective: 2000px;
   }
+
 
    .page1 img{
     position: relative;
@@ -33,10 +35,9 @@ height: 100%;
     overflow: hidden;
     animation: slideInLeft 1s .3s both;
 
-    .p img {
-       &:not(:nth-last-of-type(1)) {
-         opacity: 1;
-         animation: tada 1s .3s infinite both;
+     #page1 {
+       img:nth-last-of-type(1) {
+         animation: shake 1s both;
        }
      }
   }
