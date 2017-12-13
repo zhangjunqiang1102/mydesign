@@ -32,7 +32,15 @@ height: 100%;
     display:inline-block;
     overflow: hidden;
     animation: slideInLeft 1s .3s both;
+
+    .p img {
+       &:not(:nth-last-of-type(1)) {
+         opacity: 1;
+         animation: tada 1s .3s infinite both;
+       }
+     }
   }
+
 
    .page2 img{
      margin: 0 auto;
