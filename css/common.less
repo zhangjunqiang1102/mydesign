@@ -1,0 +1,24 @@
+.fullPage{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.transformRotate(@v){
+  @vv:unit(@v,deg);
+  -webkit-transform:rotate(@vv);
+  transform:rotate(@vv)
+}
+.animation(@name,@duration:1s,@timing-function:ease,@delay:0s,@count:1,@mode:both){
+  -webkit-animation: @arguments;
+  animation: @arguments;
+}
+.transition(@property: all,@duration: 1s,@effect:linear,@delay: 0s){
+  -webkit-transition: @arguments;
+  animation: @arguments;
+
+}
+.subText(){
+  text-overflow: ellipsis;
+  white-space: normal;
+  overflow: hidden;
+}
