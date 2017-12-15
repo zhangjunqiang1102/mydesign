@@ -303,9 +303,21 @@ html, body {
 //  }
 //}
 
+
+
+
+
+
+
+
+
+
+
+
+
 /*--CUBE--*/
 .cubeBox {
-  background: url("../img/zf_cubeBg.jpg") no-repeat;
+  background: url("../img1/ti.gif") no-repeat;
   background-size: cover;
 
   .tip {
@@ -410,6 +422,7 @@ html, body {
   .page1 {
     perspective: 2000px;
 
+
     dl {
       position: absolute;
       top: 50%;
@@ -471,9 +484,10 @@ html, body {
 
   /*PAGE2*/
   .page2 {
-    background: #FFF9C1;
+    background: url("../img1/qq.gif");
 
     h2 {
+      color: lightskyblue;
       position: absolute;
       left: 0;
       top: .8rem;
@@ -579,7 +593,7 @@ html, body {
 }
   /*PAGE4*/
   .page4 {
-    background: #aaa;
+    background: url("../img1/ti.gif") no-repeat;
     h2 {
       position: absolute;
       left: 0;
@@ -589,6 +603,7 @@ html, body {
       text-align: center;
       font-size: .6rem;
       font-weight: normal;
+      color: navajowhite;
     }
     p{
       position: relative;
@@ -599,6 +614,7 @@ html, body {
       z-index: 33;
       line-height: 1rem;
       bottom: .3rem;
+      color: deeppink;
     }
     img{
       position: relative;
@@ -621,11 +637,10 @@ html, body {
 }
   /*PAGE5*/
   .page5 {
-    background: #FBFFE8;
-
-
+background: darkturquoise;
 
   h2 {
+    color: purple;
     position: absolute;
     left: 0;
     top: .8rem;
@@ -634,7 +649,40 @@ html, body {
     text-align: center;
     font-size: .6rem;
     font-weight: normal;
+z-index: 999;
+
   }
+img{
+  position: absolute;
+  top: .7rem;
+  width: 100%;
+   height: 100%;
+  z-index: 22;
+}
+    span{
+      position: absolute;
+      top: 3rem;
+      width: 100%;
+      left: 0;
+          color: #000;
+          display: inline-block;
+           z-index: 88;
+          height: .6rem;
+          line-height: .6rem;
+          font-size: .4rem;
+    }
+
+  }
+
+  #page5{
+    h2{
+      animation: flip 1s .3s both;
+
+    }
+   span{
+     animation: fadeInDown 1s  .3s both;
+   }
+
   }
 
   /*PAGE6*/
@@ -659,6 +707,7 @@ html, body {
       height: 7rem;
     }
      span{
+       color: palegreen;
         position: relative;
        display: block;
        font-size: .36rem;
@@ -671,7 +720,7 @@ html, body {
       font-size: .48rem;
       left: 1.5rem;
       top: 10rem;
-
+      color: purple;
     }
   }
 

@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/1-1.html" afterPath="$PROJECT_DIR$/1-1.html" />
       <change beforePath="$PROJECT_DIR$/css/index.less" afterPath="$PROJECT_DIR$/css/index.less" />
+      <change beforePath="$PROJECT_DIR$/img1/b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img1/to_1.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,38 +30,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1-1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-814">
-              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="228">
+              <caret line="119" column="22" lean-forward="true" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
               <folding>
                 <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="618" column="39" lean-forward="false" selection-start-line="618" selection-start-column="39" selection-end-line="618" selection-end-column="39" />
+            <state relative-caret-position="514">
+              <caret line="682" column="33" lean-forward="false" selection-start-line="682" selection-start-column="33" selection-end-line="682" selection-end-column="33" />
               <folding>
-                <element signature="e#6223#7707#0" expanded="false" />
-                <element signature="e#7764#7971#0" expanded="false" />
-                <element signature="e#8008#8114#0" expanded="false" />
-                <element signature="e#8714#8900#0" expanded="false" />
-                <element signature="e#10351#11097#0" expanded="false" />
-                <element signature="e#10621#10659#0" expanded="false" />
-                <element signature="e#10684#10751#0" expanded="false" />
-                <element signature="e#10776#10841#0" expanded="false" />
-                <element signature="e#10866#10903#0" expanded="false" />
-                <element signature="e#10928#10994#0" expanded="false" />
-                <element signature="e#11019#11087#0" expanded="false" />
-                <element signature="e#12148#12357#0" expanded="false" />
+                <element signature="e#7770#7977#0" expanded="false" />
+                <element signature="e#8014#8120#0" expanded="false" />
+                <element signature="e#8143#9514#0" expanded="false" />
+                <element signature="e#8721#8907#0" expanded="false" />
+                <element signature="e#9537#10388#0" expanded="false" />
+                <element signature="e#10289#10384#0" expanded="false" />
+                <element signature="e#10399#11145#0" expanded="false" />
+                <element signature="e#10669#10707#0" expanded="false" />
+                <element signature="e#10732#10799#0" expanded="false" />
+                <element signature="e#10824#10889#0" expanded="false" />
+                <element signature="e#10914#10951#0" expanded="false" />
+                <element signature="e#10976#11042#0" expanded="false" />
+                <element signature="e#11067#11135#0" expanded="false" />
+                <element signature="e#13006#13673#0" expanded="false" />
+                <element signature="e#13683#13926#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -87,8 +94,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/hua.less" />
         <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/css/index.less" />
         <option value="$PROJECT_DIR$/1-1.html" />
+        <option value="$PROJECT_DIR$/css/index.less" />
       </list>
     </option>
   </component>
@@ -105,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="102" />
     <option name="width" value="871" />
@@ -212,18 +219,18 @@
       <workItem from="1513176774664" duration="9410000" />
       <workItem from="1513232610008" duration="3204000" />
       <workItem from="1513264647536" duration="715000" />
-      <workItem from="1513310203659" duration="9827000" />
+      <workItem from="1513310203659" duration="16961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65189000" />
+    <option name="totallyTimeSpent" value="72323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="102" width="871" height="604" extended-state="0" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19567826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12182362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -261,106 +268,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img1/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/12.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/8.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/33-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/30.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/32.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/33.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/34.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/28.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/27.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/24.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/26.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/22.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/21.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/20.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img1/19.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -371,22 +278,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img1/13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/14.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img1/15.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/11.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -429,21 +321,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img1/to_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img1/f.jpg" />
     <entry file="file://$PROJECT_DIR$/img1/e.jpg" />
     <entry file="file://$PROJECT_DIR$/img1/d.jpg" />
     <entry file="file://$PROJECT_DIR$/img1/c.jpg" />
     <entry file="file://$PROJECT_DIR$/img1/a_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img1/b.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -493,6 +375,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img1/8.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/3.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/12.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/14.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/q.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/g6.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/to_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/aa7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/aa6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/q1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/qqq1.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/qq.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/q5.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/q4.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/ti.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img1/q3.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/common.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -501,35 +503,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="618" column="39" lean-forward="false" selection-start-line="618" selection-start-column="39" selection-end-line="618" selection-end-column="39" />
-          <folding>
-            <element signature="e#6223#7707#0" expanded="false" />
-            <element signature="e#7764#7971#0" expanded="false" />
-            <element signature="e#8008#8114#0" expanded="false" />
-            <element signature="e#8714#8900#0" expanded="false" />
-            <element signature="e#10351#11097#0" expanded="false" />
-            <element signature="e#10621#10659#0" expanded="false" />
-            <element signature="e#10684#10751#0" expanded="false" />
-            <element signature="e#10776#10841#0" expanded="false" />
-            <element signature="e#10866#10903#0" expanded="false" />
-            <element signature="e#10928#10994#0" expanded="false" />
-            <element signature="e#11019#11087#0" expanded="false" />
-            <element signature="e#12148#12357#0" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/img1/z.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-814">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="228">
+          <caret line="119" column="22" lean-forward="true" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
           <folding>
             <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="682" column="33" lean-forward="false" selection-start-line="682" selection-start-column="33" selection-end-line="682" selection-end-column="33" />
+          <folding>
+            <element signature="e#7770#7977#0" expanded="false" />
+            <element signature="e#8014#8120#0" expanded="false" />
+            <element signature="e#8143#9514#0" expanded="false" />
+            <element signature="e#8721#8907#0" expanded="false" />
+            <element signature="e#9537#10388#0" expanded="false" />
+            <element signature="e#10289#10384#0" expanded="false" />
+            <element signature="e#10399#11145#0" expanded="false" />
+            <element signature="e#10669#10707#0" expanded="false" />
+            <element signature="e#10732#10799#0" expanded="false" />
+            <element signature="e#10824#10889#0" expanded="false" />
+            <element signature="e#10914#10951#0" expanded="false" />
+            <element signature="e#10976#11042#0" expanded="false" />
+            <element signature="e#11067#11135#0" expanded="false" />
+            <element signature="e#13006#13673#0" expanded="false" />
+            <element signature="e#13683#13926#0" expanded="false" />
           </folding>
         </state>
       </provider>
