@@ -460,7 +460,6 @@ html, body {
           width: 4.74rem;
           line-height: .6rem;
           font-size: .28rem;
-
           text-overflow: ellipsis;
           white-space: nowrap;
           overflow: hidden;
@@ -558,7 +557,7 @@ html, body {
 
   /*PAGE3*/
   .page3 {
-    background:url("../img1/a_1.jpg");
+    background:#fff;
 
     h2 {
       position: absolute;
@@ -570,18 +569,17 @@ html, body {
       font-size: .6rem;
       font-weight: normal;
     }
-
-
   }
 
-  #page3{
-    h2 {
-      animation: ease-in-out 1s both;
-    }
+#page3{
+  h2{
+    animation: rotateInDownRight 1s .3s  both;
   }
+
+}
   /*PAGE4*/
   .page4 {
-    background: #FACA71;
+    background: #aaa;
     h2 {
       position: absolute;
       left: 0;
@@ -592,8 +590,35 @@ html, body {
       font-size: .6rem;
       font-weight: normal;
     }
+    p{
+      position: relative;
+      display: block;
+      font-size: .4rem;
+      top:8.1rem;
+      left: .8rem;
+      z-index: 33;
+      line-height: 1rem;
+      bottom: .3rem;
+    }
+    img{
+      position: relative;
+      display: block;
+      bottom: .3rem;
+      top: 3.9rem;
+      z-index: 2;
+    }
   }
-
+#page4{
+  h2{
+    animation: lightSpeedIn 1s .3s both;
+  }
+   img{
+     animation: wobble 1s .3s  both;
+   }
+  p{
+    animation: bounceInDown 1s .2s both;
+  }
+}
   /*PAGE5*/
   .page5 {
     background: #FBFFE8;
@@ -614,10 +639,7 @@ html, body {
 
   /*PAGE6*/
   .page6 {
-    background: url("../img1/aa2.jpg") no-repeat;
-      h2{
-        animation: ease-in-out 1s .3s both;
-      }
+    background: url("../img1/aa2.jpg");
 
     h2 {
       position: absolute;
@@ -631,8 +653,8 @@ html, body {
     }
     img {
       position: absolute;
-      left: -5px;
-      top:100px;
+      left: -.05rem;
+      top:2rem;
       width: 7rem;
       height: 7rem;
     }
@@ -642,9 +664,6 @@ html, body {
        font-size: .36rem;
         left: 1.5rem;
         top: 10rem;
-
-
-
      }
     p{
       position: relative;
@@ -656,10 +675,26 @@ html, body {
     }
   }
 
+  #page6{
+
+  h2 {
+    animation: flip 1s .3s both;
+
+
+  }
+    img{
+      animation: bounceInLeft 1s  both;
+    }
+
+      span{
+        animation: bounceInRight 1s .3s both;
+      }
+        p{
+          animation: bounceInUp   1s .3s  both;
+        }
+
+ }
 }
-
-
-
 
 
 
